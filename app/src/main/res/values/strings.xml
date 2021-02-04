@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">kobe khola</string>
+
+    <string-array name="places">
+        <item>এরিয়া নির্ধারন করুন</item>
+        <item>ক্যান্টনমেন্ট</item>
+        <item>পল্টন</item>
+        <item>নীলক্ষেত</item>
+        <item>কাঁটাবন</item>
+        <item>গুলসান-১, ২</item>
+        <item>বনানী</item>
+        <item>আগারগাঁ</item>
+        <item>ধানমন্ডি</item>
+        <item>ফার্মগেট</item>
+        <item>মিরপুর-১০</item>
+        <item>মহাখালী</item>
+        <item>মতিঝিল</item>
+        <item>বেইলি রোড</item>
+        <item>ইস্কাটন</item>
+        <item>মগবাজার</item>
+        <item>মোহাম্মাদপুর</item>
+        <item>আদাবর</item>
+        <item>শ্যামলী</item>
+        <item>গাবতলী</item>
+        <item>মিরপুর স্টেডিয়াম</item>
+        <item>চিড়িয়াখানা</item>
+
+        <item>উত্তরা থেকে টঙ্গী সেতু</item>
+        <item>খিলখেত</item>
+        <item>নিকুঞ্জ-১, ২</item>
+        <item>কাওয়ান বাজার</item>
+
+        <item>কাঁঠালবাগান</item>
+        <item>বাংলাবাজার</item>
+        <item>পাটুয়াটুলী</item>
+        <item>দোলাইপাড়</item>
+        <item>জুরাইন</item>
+        <item>ওয়ারী</item>
+        <item>আহসান মঞ্জিল</item>
+        <item>লালবাগ</item>
+        <item>কাফরুল</item>
+
+        <item>কাকলী</item>
+        <item>তেজগাঁও ওল্ড এয়ারপোর্ট এরিয়া</item>
+        <item>---------------------</item>
+
+
+
+
+
+        <item>আহসান মঞ্জিল</item>
+        <item>আদাবর</item>
+        <item>আরামবাগ</item>
+        <item>আসাদগেট</item>
+        <item>আশকোনা</item>
+        <item>আগারগাঁ</item>
+        <item>ইস্কাটন</item>
+        <item>ইব্রাহীমপুর</item>
+        <item>উত্তরখান</item>
+        <item>উত্তরা থেকে টঙ্গী সেতু</item>
+        <item>এলিফ্যান্ট রোড</item>
+        <item>ওল্ড ডিওএসএইচ</item>
+        <item>ওয়ারী</item>
+        <item>কুড়িল</item>
+        <item>কাওয়ান বাজার</item>
+        <item>কাকরাইল</item>
+        <item>কল্যাণপুর</item>
+        <item>কাজীপাড়া</item>
+        <item>কচুখেত</item>
+        <item>কাফরুল</item>
+        <item>কাকলী</item>
+        <item>ক্যান্টনমেন্ট</item>
+        <item>কমলাপুরের একাংশ</item>
+        <item>করিমউল্লাহবাগ</item>
+        <item>কোতোয়ালী থানা</item>
+        <item>কাঁটাবন</item>
+        <item>কাঁঠালবাগান</item>
+        <item>খিলগাঁ</item>
+        <item>খিলখেত</item>
+        <item>গুলসান-১, ২</item>
+        <item>গুলিস্থানের দক্ষিণ অংশ</item>
+        <item>গাবতলী</item>
+        <item>গেণ্ডারিয়া</item>
+        <item>গোড়ান</item>
+        <item>চাঙ্খারপুল</item>
+        <item>চিড়িয়াখানা</item>
+        <item>জোয়ার সাহারা</item>
+        <item>জুরাইন</item>
+        <item>জয়কালী মন্দির</item>
+        <item>জিগাতলা</item>
+        <item>জগন্নাথপুর</item>
+        <item>টিপু সুলতান রোড</item>
+        <item>টিকাটুলি</item>
+        <item>টেকনিক্যাল</item>
+        <item>ঢাকা বিশ্ববিদ্যালয় এলাকা</item>
+        <item>তাঁতীবাজার</item>
+        <item>তেজগাঁও ওল্ড এয়ারপোর্ট এরিয়া</item>
+        <item>তেজকুনীপাড়া</item>
+        <item>দনিয়া</item>
+        <item>দোলাইপাড়</item>
+        <item>দয়াগঞ্জ</item>
+        <item>দক্ষিণখান</item>
+        <item>ধোলাইখাল</item>
+        <item>ধূপখোলা</item>
+        <item>ধলপুর</item>
+        <item>ধানমন্ডি</item>
+        <item>নাখালপাড়া</item>
+        <item>নীলক্ষেত</item>
+        <item>নিউ ডিওএসএইচ</item>
+        <item>নিকুঞ্জ ১, ২</item>
+        <item>নবাবপুর</item>
+        <item>পিলখানা</item>
+        <item>পল্টন</item>
+        <item>পাটুয়াটুলী</item>
+        <item>পোস্তগোলা</item>
+        <item>পল্লবী</item>
+        <item>ফরাশগঞ্জ</item>
+        <item>ফার্মগেট</item>
+        <item>ফকিরেরপুল</item>
+        <item>বাসাবো</item>
+        <item>বারিধারা</item>
+        <item>বিমানবন্দর সড়ক</item>
+        <item>বনশ্রী</item>
+        <item>বনানী</item>
+        <item>বাংলাবাজার</item>
+        <item>বংশাল</item>
+        <item>বসুন্ধরা আবাসিক এলাকা</item>
+        <item>বেইলি রোড</item>
+        <item>বিজয়নগর</item>
+        <item>মাদারটেক</item>
+        <item>মীরহাজীরবাগ</item>
+        <item>মানিক মিয়া এভিনিউ</item>
+        <item>মণিপুরিপাড়া</item>
+        <item>মধ্য ও উত্তর বাড্ডা</item>
+        <item>মগবাজার</item>
+        <item>মিরপুর স্টেডিয়াম</item>
+        <item>মোহাম্মাদপুর</item>
+        <item>মালিবাগের একাংশ</item>
+        <item>মহাখালী</item>
+        <item>মুগদা</item>
+        <item>মতিঝিল</item>
+        <item>মিরপুর-১০</item>
+        <item>মিরপুর-১১</item>
+        <item>মিরপুর-১২</item>
+        <item>মিরপুর-১৩</item>
+        <item>মিরপুর-১৪</item>
+        <item>মিরপুর-৭</item>
+        <item>মিরপুর-৬</item>
+        <item>মিরপুর-২</item>
+        <item>মিরপুর-১ </item>
+        <item>যাত্রাবাড়ীর দক্ষিন-পশ্চিম অংশ</item>
+        <item>যাত্রাবাড়ী একাংশ</item>
+        <item>রামপুরা</item>
+        <item>রাজাবাজার</item>
+        <item>রায়েরবাজার</item>
+        <item>রমনা শিশু পার্ক</item>
+        <item>রায়েরবাগ</item>
+        <item>লালবাগ</item>
+        <item>লক্ষ্মীবাজার</item>
+        <item>লালমাটিয়া</item>
+        <item>শেরে বাংলা নগর</item>
+        <item>শ্যামলী</item>
+        <item>শাহাজাদপুর</item>
+        <item>শুক্রাবাদ</item>
+        <item>শাঁখারী বাজার</item>
+        <item>শ্যামপুর</item>
+        <item>শ্যামবাজার</item>
+        <item>শেওড়াপাড়া</item>
+        <item>শনির আখড়া</item>
+        <item>শাজাহানপুর</item>
+        <item>শান্তিনগর</item>
+        <item>শহীদবাগ</item>
+        <item>শান্তিবাগ</item>
+        <item>সিদ্ধেশ্বরী</item>
+        <item>সাতারকুল</item>
+        <item>সদরঘাট</item>
+        <item>সায়েদাবাদ</item>
+        <item>সানারপাড়</item>
+        <item>স্বামীবাগ</item>
+        <item>সোবহানবাগ</item>
+        <item>হাইকোর্ট ভবন এলাকা</item>
+        <item>হাজারীবাগ</item>
+        <item>হাতিরপুল</item>
+
+
+
+
+    </string-array>
+</resources>
